@@ -1,2 +1,2 @@
-# ios
-iOS app
+# UndocuScholar iOS App
+iOS application coming soon...
